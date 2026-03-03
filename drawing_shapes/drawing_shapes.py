@@ -3,7 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-imgPath = cv2.imread("images/im1.jpg")
+imgPath = cv2.imread("images/inputImg.jpg")
 
 img = cv2.cvtColor(imgPath, cv2.COLOR_BGR2RGB)
 
@@ -39,7 +39,7 @@ pts = np.array([[400,130],[600,130], [380,400]], dtype = np.int32)
 cv2.polylines(newImg, [pts], isClosed = True, color =(2, 2, 253), thickness =2)
 
 # Finally saving the edited image
-outputImg_path = "images/edited.jpg"
+outputImg_path = "images/result.jpg"
 cv2.imwrite(outputImg_path, newImg)
 print("The edited image is saved in the output image directory")
 
