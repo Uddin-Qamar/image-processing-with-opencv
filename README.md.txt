@@ -33,7 +33,7 @@ opencv-practice/
 │ │    └── broken-text
 │ │    └── wirebond-mask
 │ └── output/
-│    └── inputImg.jpg
+│    └── Broken_text_and_wired_image
 │    └── inputImg.jpg
 │    └── inputImg.jpg
 └── README.md
