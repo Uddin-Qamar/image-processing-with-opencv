@@ -1,4 +1,4 @@
-# OpenCV Practice (Python)
+# OpenCV Practice with image processing and computer vision by using Python
 
 A collection of  **computer vision exercises using OpenCV (cv2) in Python**.  
 Each exercise is self-contained and includes:
