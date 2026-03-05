@@ -52,7 +52,9 @@ Install dependencies:
 ```bash
 pip install opencv-python-headless
 
-## How to Run
-
-cd drawing_shapes
-python drawing_shapes.py
+## How to Run:
+- Clone the Project and go to the .py directory like:
+- cd drawing_shapes
+- run the command like:
+- python drawing_shapes.py
+Note!: Remeber to install the dependencise 
