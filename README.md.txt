@@ -19,26 +19,26 @@ The goal is to practice core image-processing concepts such as:
 
 Each exercise lives in its own folder:
 opencv-practice/
-├── drawing_shapes/
+1├── drawing_shapes/
 │ ├── drawing_shapes.py
 │ ├── input/
 │ │ └── inputImg.jpg
 │ └── output/
 │   └── result.jpg
-├── morophology_operation
+2├── morophology_operation
 │ ├── erosion_dilation_morphology.py
 │ ├── opening_closing_morphology.py
-│ ├── input/
+│ ├── input image/
 │ │    └── blobs_in_circular_arrangement
 │ │    └── broken-text
 │ │    └── wirebond-mask
-│ └── output/
+│ └── output image/
 │    └── Broken_text_and_wired_image
 │    └── wirebond-mask_no-wires
 │    └── blobs_result
 └── README.md
 
-
+Note: Next all exercise will follow the same pattern.
 ---
 
 ## Requirements
