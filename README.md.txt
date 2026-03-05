@@ -1,6 +1,6 @@
 # OpenCV Practice (Python)
 
-A collection of small **computer vision exercises using OpenCV (cv2) in Python**.  
+A collection of  **computer vision exercises using OpenCV (cv2) in Python**.  
 Each exercise is self-contained and includes:
 - a Python script (`.py`)
 - input image(s)
@@ -10,6 +10,7 @@ The goal is to practice core image-processing concepts such as:
 - reading/writing images
 - resizing and interpolation
 - drawing primitives (line, rectangle, circle, polygon, text)
+- Mathematical Morphology (Erosion. Dilation, Opening, amd closing)
 - basic transformations
 - filtering and edge detection (more coming)
 
@@ -18,7 +19,7 @@ The goal is to practice core image-processing concepts such as:
 ## Repository Structure
 
 Each exercise lives in its own folder:
-opencv-practice/
+ image-processing-with-opencv/
 1├── drawing_shapes/
 │ ├── drawing_shapes.py
 │ ├── input/
