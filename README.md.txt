@@ -25,10 +25,17 @@ opencv-practice/
 │ │ └── inputImg.jpg
 │ └── output/
 │   └── result.jpg
-├── resize_images/
-│ ├── resize.py
+├── morophology_operation
+│ ├── erosion_dilation_morphology.py
+│ ├── opening_closing_morphology.py
 │ ├── input/
+│ │    └── blobs_in_circular_arrangement
+│ │    └── inputImg.jpg
+│ │    └── inputImg.jpg
 │ └── output/
+│    └── inputImg.jpg
+│    └── inputImg.jpg
+│    └── inputImg.jpg
 └── README.md
 
 
