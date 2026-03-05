@@ -30,8 +30,8 @@ opencv-practice/
 │ ├── opening_closing_morphology.py
 │ ├── input/
 │ │    └── blobs_in_circular_arrangement
-│ │    └── inputImg.jpg
-│ │    └── inputImg.jpg
+│ │    └── broken-text
+│ │    └── wirebond-mask
 │ └── output/
 │    └── inputImg.jpg
 │    └── inputImg.jpg
