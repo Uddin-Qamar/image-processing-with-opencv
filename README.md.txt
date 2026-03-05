@@ -22,9 +22,9 @@ opencv-practice/
 ├── drawing_shapes/
 │ ├── drawing_shapes.py
 │ ├── input/
-│ │ └── example.jpg
+│ │ └── inputImg.jpg
 │ └── output/
-│ └── result.jpg
+│   └── result.jpg
 ├── resize_images/
 │ ├── resize.py
 │ ├── input/
