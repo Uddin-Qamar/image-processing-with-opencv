@@ -34,8 +34,8 @@ opencv-practice/
 │ │    └── wirebond-mask
 │ └── output/
 │    └── Broken_text_and_wired_image
-│    └── inputImg.jpg
-│    └── inputImg.jpg
+│    └── wirebond-mask_no-wires
+│    └── blobs_result
 └── README.md
 
 
