@@ -14,7 +14,6 @@ The goal is to practice core image-processing concepts such as:
 - basic transformations
 - filtering and edge detection (more coming)
 
----
 
 ## Repository Structure
 
@@ -40,7 +39,7 @@ Each exercise lives in its own folder:
 └── README.md
 
 Note: Next all exercise will follow the same pattern.
----
+
 
 ## Requirements
 
